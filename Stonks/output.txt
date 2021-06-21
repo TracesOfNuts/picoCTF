@@ -1,0 +1,21 @@
+Welcome back to the trading app!
+
+What would you like to do?
+1) Buy some stonks!
+2) View my portfolio
+Using patented AI algorithms to buy stonks
+Stonks chosen
+What is your API token?
+Buying stonks with token:
+09bdf3d0.0804b000.080489c3.f7f8cd80.ffffffff.00000001.09bdd160.f7f9a110.f7f8cdc7.00000000.09bde180.00000001.09bdf3b0.09bdf3d0.6f636970.7b465443.306c5f49.345f7435.6d5f6c6c.306d5f79.5f79336e.38343136.34356562.ff83007d.f7fc7af8.f7f9a440.05b4f100.00000001.00000000.f7e29be9.f7f9b0c0.f7f8c5c0.f7f8c000
+Portfolio as of Mon Jun 21 05:43:32 UTC 2021
+
+
+1 shares of YV
+10 shares of CQZ
+2 shares of C
+26 shares of A
+9 shares of GVQV
+87 shares of A
+52 shares of MK
+Goodbye!
