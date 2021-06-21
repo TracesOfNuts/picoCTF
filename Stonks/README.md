@@ -282,7 +282,7 @@ Buying stonks with token:
 
 This hexadecimal sequence above is a partial dump of the stack memory, starting from the bottom to the top of the stack. 
 
-![stack](./img/stack.PNG)
+![stack](./img/stack.png)
 
 
 
